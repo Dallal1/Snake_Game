@@ -1,3 +1,0 @@
-C:\Users\mdallal\Desktop\my_games\Snake_Game\Snake\x64\Debug\Snake.vcxproj.CopyComplete
-C:\Users\mdallal\Desktop\my_games\Snake_Game\Snake\x64\Debug\Snake.exe
-C:\Users\mdallal\Desktop\my_games\Snake_Game\Snake\x64\Debug\raylib.dll
